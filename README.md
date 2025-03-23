@@ -1,7 +1,7 @@
 #  Security Assignments – Hashing, Exploitation, Malware & Attacks
 
 ##  Overview
-This repository contains solutions for various **security-related assignments**, covering **cryptographic weaknesses, buffer overflow exploits, denial-of-service attacks, malware detection, and side-channel vulnerabilities**. Each assignment was successfully completed while **omitting the bonus tasks**.
+This repository contains solutions for various **security-related assignments**, covering **cryptographic weaknesses, buffer overflow exploits, denial-of-service attacks, malware detection, and side-channel vulnerabilities**. 
 
 ## 🛠️ Technologies & Tools Used
 - **Programming Languages**: Python, C
